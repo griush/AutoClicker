@@ -23,7 +23,7 @@ void menu()
 	updateTitle(false, 1);
 	printf("Press 'X' to enable and 'Z' to disable.\n");
 	printf("Press UP/DOWN arrow keys to increase/decrease the frequency.\n");
-	printf("Press '0' to set the frequency to 0.\n");
+	printf("Press '0' to set the frequency to 1ms.\n");
 	printf("Press 'Q' to quit.\n");
 }
  
